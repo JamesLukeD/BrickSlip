@@ -954,8 +954,8 @@ body {
 
 /* ── Contact Banner ── */
 .contact-banner {
-  background: url("images/products-georgian_brick_slip-edited.jpg")
-    center / cover no-repeat;
+  background: url("images/products-georgian_brick_slip-edited.jpg") center /
+    cover no-repeat;
   background-attachment: fixed;
   min-height: 55vh;
   display: flex;
